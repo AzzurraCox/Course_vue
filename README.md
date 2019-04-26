@@ -1,4 +1,4 @@
-# my-blog
+# Course
 
 > A Vue.js project
 
